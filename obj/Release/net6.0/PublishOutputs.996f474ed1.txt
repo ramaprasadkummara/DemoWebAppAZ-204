@@ -1,0 +1,7 @@
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.exe
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.dll
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.deps.json
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.runtimeconfig.json
+D:\Siemens\Trainings\Azure\AZ-204\AzureSolution\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.pdb
